@@ -23,7 +23,7 @@
 </p>
 
 <!-- Description -->
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.google.com/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-evq.vercel.app/)**
 - 📫 My email: evqcode@gmail.com
 - ✨ My telegram: @EVQshen
 
